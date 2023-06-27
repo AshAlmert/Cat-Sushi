@@ -23,7 +23,17 @@
                 <button class="nav-button"><img src="./asset/img/notification-bell.png" alt="bell" class="but-image"></button>
                 <button class="nav-button"><img src="./asset/img/heart.png" alt="heart" class="but-image"></button>
                 <button class="nav-button"><img src="./asset/img/user.png" alt="user" class="but-image"></button>
-                <button class="nav-button">Корзина <img src="./asset/img/cart.png" alt="cart" class="but-image"></button>
+                <button class="nav-button-cart">Корзина <img src="./asset/img/cart.png" alt="cart" class="but-image-cart"></button>
+            </div>
+            <div class="menu-nav">
+                <a href="" class="menu-link"><img src="./asset/img/roll.png" alt="roll" class="image-menu">Роллы</a>
+                <a href="" class="menu-link"><img src="./asset/img/sushi.png" alt="sushi" class="image-menu">Суши</a>
+                <a href="" class="menu-link"><img src="./asset/img/Sett.png" alt="Set" class="image-menu">Сеты</a>
+                <a href="" class="menu-link"><img src="./asset/img/drinks.png" alt="Drink" class="image-menu">Напитки</a>
+                <a href="" class="menu-link"><img src="./asset/img/sauce.png" alt="Sause" class="image-menu">Соусы</a>
+            </div>
+            <div class="slider">
+                
             </div>
         </header>
     </div>
